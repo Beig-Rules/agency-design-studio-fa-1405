@@ -1,2 +1,4 @@
-# agency-design-studio-fa-1405
-آژانس طراحی تجربه کاربری فارسی
+# آژانس طراحی تجربه کاربری
+فارسی RTL
+
+https://beig-rules.github.io/agency-design-studio-fa-1405/
